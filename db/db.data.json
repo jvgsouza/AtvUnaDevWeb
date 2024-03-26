@@ -1,0 +1,37 @@
+[
+    {
+        "id": 0,
+        "titulo": "Selecione",
+        "descricao": "",
+        "disable": true,
+        "selected": true
+    },
+    {
+        "id": 1,
+        "titulo": "O que é C#",
+        "descricao": "C# (pronuncia-se 'C sharp') é uma linguagem de programação desenvolvida pela Microsoft dentro da plataforma .NET. Ela foi projetada para ser simples, moderna, orientada a objetos e de uso geral. C# é amplamente utilizada para o desenvolvimento de uma variedade de aplicativos, incluindo aplicativos de desktop, aplicativos web, jogos, aplicativos móveis e muito mais.",
+        "disable": false,
+        "selected": false
+    },
+    {
+        "id": 2,
+        "titulo": "O que é 'if'",
+        "descricao": "O 'if' é uma estrutura de controle de fluxo utilizada em programação para tomar decisões baseadas em condições. Ele permite que um programa execute determinado bloco de código apenas se uma condição específica for avaliada como verdadeira.",
+        "disable": false,
+        "selected": false
+    },
+    {
+        "id": 3,
+        "titulo": "Funções em C#",
+        "descricao": "Em C#, as funções são blocos de código que realizam uma tarefa específica e podem ser chamados/executados em diferentes partes do programa, permitindo reutilização de código e modularidade. Elas também são conhecidas como métodos.",
+        "disable": false,
+        "selected": false
+    },
+    {
+        "id": 4,
+        "titulo": "Objetos em C#",
+        "descricao": "Em C#, assim como em muitas outras linguagens de programação orientadas a objetos, um objeto é uma instância de uma classe. Uma classe é uma estrutura que define o comportamento e as propriedades de um tipo de objeto. Os objetos são usados para modelar entidades do mundo real em um programa de computador, permitindo que você trabalhe com dados de uma maneira mais organizada e orientada a objetos.",
+        "disable": false,
+        "selected": false
+    }
+]
